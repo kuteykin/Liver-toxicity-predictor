@@ -11,6 +11,6 @@
 
 
 
-**"Input/* . * "** Folder for datasets (training, external validation, final prediction)
+**"Input/ * . * "**     Folder for datasets (training, external validation, final prediction)
 
-**"Output/* . * "** Forder for generated output files
+**"Output/ * . * "**    Forder for generated output files
